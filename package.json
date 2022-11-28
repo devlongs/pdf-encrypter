@@ -1,0 +1,15 @@
+{
+  "name": "pdf-encrypter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hummus-recipe": "^2.0.1"
+  }
+}
